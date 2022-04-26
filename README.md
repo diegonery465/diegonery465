@@ -29,11 +29,9 @@ area of programming and data engine
 
 ## 👨🏻‍💻 Habilidades | Skills
 
-📚<br>
-📚<br>
-📚<br>
-📚<br>
-📚<br>
+📚 Em breve....<br>
+
+
 
 ## Meus dados no Github
 
