@@ -17,8 +17,8 @@
 <br>
 
 ```
-                               Apaixonado por tecnologia, tenho experiência na área de redes de computadores e segurança,
-                               atualmente migrando para a área de programação e engenharia de dados onde tenho me dedicado.
+Apaixonado por tecnologia, tenho experiência na área de redes de computadores e segurança, atualmente migrando para a área de programação
+e engenharia de dados onde tenho me dedicado.
 
                                Passionate about technology, I have experience in the area of computer networks and security, 
                                currently migrating to the area of programming and data engine
