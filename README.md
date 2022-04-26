@@ -11,6 +11,9 @@
 ```
 Apaixonado por tecnologia, tenho experiência na área de redes de computadores e segurança,
 atualmente migrando para a área de programação e engenharia de dados onde tenho me dedicado.
+
+Passionate about technology, I have experience in the area of computer networks and security, 
+currently migrating to the area of programming and data engine
 ```
     
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/diegonery465)](https://www.linkedin.com/in/diego-nery-2a06151a7/)
@@ -58,13 +61,3 @@ atualmente migrando para a área de programação e engenharia de dados onde ten
 
 
 
-- 👋 Hi, I’m @diegonery465
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-diegonery465/diegonery465 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
