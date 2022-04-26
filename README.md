@@ -17,11 +17,11 @@
 <br>
 
 ```
-Apaixonado por tecnologia, tenho experiência na área de redes de computadores e segurança, atualmente migrando para a área de programação
-e engenharia de dados onde tenho me dedicado.
+Apaixonado por tecnologia, tenho experiência na área de redes de computadores e segurança, atualmente migrando para a área 
+de programação e engenharia de dados onde tenho me dedicado.
 
-                               Passionate about technology, I have experience in the area of computer networks and security, 
-                               currently migrating to the area of programming and data engine
+Passionate about technology, I have experience in the area of computer networks and security, currently migrating to the
+area of programming and data engine
 ```
 </h3>
 
@@ -47,12 +47,6 @@ e engenharia de dados onde tenho me dedicado.
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegonery465&layout=compact&theme=tokyonight) -->
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
-
-<h4 align="center">
- 
-![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
-
-</h4>
 
 
 
