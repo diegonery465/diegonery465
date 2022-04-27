@@ -17,11 +17,11 @@
 <br>
 
 ```
-Apaixonado por tecnologia, tenho experiência na área de Redes de Computadores | Segurança e conhecimento na área 
+Apaixonado por tecnologia, tenho experiência na área de Redes de Computadores e Segurança da Informação e conhecimento na área 
 de Desenvolvimento e Engenharia de Dados.
 
-Passionate about technology, I have experience in the area of computer networks and security and knowledge in 
-the area of Development and Data Engineering.
+Passionate about technology, I have experience in the area of Computer Networks and Information Security and knowledge in the 
+area of Development and Data Engineering.
 ```
 </h3>
 
