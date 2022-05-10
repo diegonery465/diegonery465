@@ -17,14 +17,13 @@
 <br>
 
 ```
-A busca por conhecimento e melhoria faz parte do nosso dia a dia, conhecimento não se trata apenas daquilo que você aprende, mas 
-sim da forma que você coloca em prática tudo o que adquiriu. Tenho plena certeza que a tecnologia bem aplicada pode e irá transformar 
-o mundo para melhor. Experiência na área de Redes de Computadores e Segurança da Informação, desenvolvimento na área de Full Stack,
-Engenharia de Dados.
+A busca por conhecimento e melhoria faz parte do nosso dia a dia, conhecimento não se trata apenas daquilo que você aprende, e 
+sim a forma como você coloca em prática tudo o que adquiriu. Tecnologia bem aplicada pode e irá transformar o mundo para melhor. 
+Experiência na área de Redes de Computadores e Segurança da Informação, desenvolvimento na área de Full Stack, Engenharia de Dados.
 
-The search for knowledge and improvement is part of our day to day, knowledge is not just what you learn, but yes, the way you put
-into practice everything you've acquired. I am absolutely certain that technology well applied can and will transform the world for 
-the better. Experience in Computer Networks and Information Security, development in the Full Stack area, Data Engineering.
+The search for knowledge and improvement is part of our day to day, knowledge is not just about what you learn, and rather the way 
+you put into practice everything you've acquired. Technology well applied can and will transform the world for the better. Experience
+in the area of Computer Networks and Information Security, development in the area of Full Stack, Data Engineering.
 ```
 </h3>
 
