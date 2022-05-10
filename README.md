@@ -17,8 +17,16 @@
 <br>
 
 ```
-Apaixonado por tecnologia, tenho experiência na área de Redes de Computadores e Segurança da Informação,
-desenvolvimento na área de Full Stack e Data Engineering
+A busca por conhecimento e melhoria faz parte do nosso dia a dia, conhecimento não se trata apenas daquilo que você aprende,
+mas sim da forma que você coloca em prática tudo o que adquiriu. Tenho plena certeza que a tecnologia bem aplicada pode e irá 
+transformar o mundo para melhor.
+
+Apaixonado por tecnologia, tenho experiência na área de Redes de Computadores e Segurança da Informação, desenvolvimento 
+na área de Full Stack e Engenharia de Dados
+
+The search for knowledge and improvement is part of our day to day, knowledge is not just about what you learn,
+but the way you put into practice everything you've acquired. I am quite sure that technology well applied can and will
+transform the world for the better.
 
 Passionate about technology, I have experience in Computer Networks and Information Security, development 
 in the area of Full Stack and Data Engineering
