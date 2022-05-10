@@ -17,11 +17,11 @@
 <br>
 
 ```
-Apaixonado por tecnologia, tenho experiência na área de Redes de Computadores e Segurança da Informação, estou me desenvolvendo
-para a área de desenvolvimento Full Stack.
+Apaixonado por tecnologia, tenho experiência na área de Redes de Computadores e Segurança da Informação, estou desenvolvendo
+para a área de desenvolvimento Full Stack e Engenharia de Dados
 
-Passionate about technology, I have experience in the area of Computer Networks and Information Security, 
-I am developing myself for the Full Stack development area.
+Passionate about technology, I have experience in the area of Computer Networks and Information Security, I am developing
+for the Full Stack development and Data Engineering area
 ```
 </h3>
 
