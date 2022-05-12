@@ -19,11 +19,11 @@
 ```
 A busca por conhecimento e melhoria fazem parte da nossa vida, conhecimento não se trata apenas daquilo que você aprende, e 
 sim a forma como você coloca em prática, tecnologia bem aplicada pode e irá transformar o mundo para melhor. Experiência na 
-área de Redes de Computadores e Segurança da Informação, desenvolvimento na área de Full Stack, Engenharia de Dados.
+área de Redes de Computadores e Segurança da Informação, desenvolvimento na área de Full Stack.
 
 The search for knowledge and improvement is part of our life, knowledge is not just about what you learn, and yes, the way you 
 put it into practice, technology well applied can and will transform the world for the better. experience in the area of 
-Computer Networks and Information Security, development in the Full Stack area, and Data Engineering.
+Computer Networks and Information Security, development in the Full Stack area.
 ```
 </h3>
 
