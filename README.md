@@ -23,7 +23,7 @@ sim a forma como você coloca em prática, tecnologia bem aplicada pode e irá t
 
 The search for knowledge and improvement is part of our life, knowledge is not just about what you learn, and yes, the way you 
 put it into practice, technology well applied can and will transform the world for the better. experience in the area of 
-Computer Networks and Information Security, Full Stack development and in the Data area..
+Computer Networks and Information Security, Full Stack development and in the Data area.
 ```
 </h3>
 
