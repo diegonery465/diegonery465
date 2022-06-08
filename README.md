@@ -31,7 +31,7 @@ Computer Networks and Information Security, Full Stack development.
 
 ## 👨🏻‍💻 Habilidades | Skills
 
-📚 Em breve....<br>
+🛠️ Em breve...<br>
 
 
 
