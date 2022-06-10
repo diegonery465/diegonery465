@@ -32,7 +32,7 @@ Computer Networks and Information Security, Full Stack development.
 ## 👨🏻‍💻 Habilidades | Skills
 
 
-[![1 - Clone Instagram](https://clone-instagram-srmadruga.netlify.app/)]
+[1 - Clone Instagram](https://clone-instagram-srmadruga.netlify.app/)]
 
 
 
