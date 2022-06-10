@@ -32,9 +32,9 @@ Computer Networks and Information Security, Full Stack development.
 ## 👨🏻‍💻 Habilidades | Skills
 
 ```
-Mais detalhes clique aqui 👉 [Meus repositórios](https://github.com/diegonery465?tab=repositories)
-
+Mais detalhes sobre os projetos criados, clique abaixo!
 ```
+👉 ![Meus repositórios](https://github.com/diegonery465?tab=repositories)
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&link=https://github.com/diegonery465) 
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&link=https://github.com/diegonery465)
