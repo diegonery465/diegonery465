@@ -20,6 +20,8 @@ Computer Networks and Information Security, Full Stack development.
 ```
 </h3>
 
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/diegonery465)](https://www.linkedin.com/in/diego-nery-2a06151a7/)
+
 <br>
 
 ## 👨🏻‍💻 Tech Stack
@@ -30,7 +32,16 @@ Mais detalhes sobre Skills, [clique - aqui!](https://github.com/diegonery465?tab
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&link=https://github.com/diegonery465) 
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&link=https://github.com/diegonery465)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) <br>
+
+<h4 align="center">
+ 
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+
+</h4>
+
+
+
 
 
 ## Meus dados no Github
@@ -45,13 +56,6 @@ Mais detalhes sobre Skills, [clique - aqui!](https://github.com/diegonery465?tab
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegonery465&layout=compact&theme=tokyonight) -->
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) <br>
 
-<h4 align="center">
- 
-![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
-
-</h4>
-
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/diegonery465)](https://www.linkedin.com/in/diego-nery-2a06151a7/)
 
 
 
