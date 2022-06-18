@@ -28,7 +28,8 @@ Computer Networks and Information Security, Full Stack development and Machine L
 
 💻  Skills: <br>
 
-[1 - Clone Instagram](https://github.com/diegonery465/Desafio-DIO/tree/main/FlexCSSInstagram) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&link=https://github.com/diegonery465) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&link=https://github.com/diegonery465)
+[1 - Clone Instagram] <br>
+(https://github.com/diegonery465/Desafio-DIO/tree/main/FlexCSSInstagram) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&link=https://github.com/diegonery465) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&link=https://github.com/diegonery465)
 
 
 <h4 align="center">
