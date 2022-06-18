@@ -26,7 +26,7 @@ Computer Networks and Information Security, Full Stack development and Machine L
 
 ## 👨🏻‍💻 Tech Stack
 
-💻  Skills: <br>
+💻  Skills veja abaixo: <br>
 
 [Projetos Criados com HTML, CSS e JS](https://github.com/diegonery465/Projetos-HTML-CSS-JS)<br>
 
