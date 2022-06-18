@@ -34,6 +34,9 @@ Mais detalhes sobre Skills, [clique - aqui!](https://github.com/diegonery465?tab
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&link=https://github.com/diegonery465)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) <br>
 
+ [1 - Clone Instagram](https://github.com/diegonery465/Desafio-DIO/tree/main/FlexCSSInstagram)
+
+
 <h4 align="center">
  
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
