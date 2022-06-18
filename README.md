@@ -26,8 +26,6 @@ Computer Networks and Information Security, Full Stack development and Machine L
 
 ## 👨🏻‍💻 Tech Stack
 
-Skills, [clique - aqui!](https://github.com/diegonery465?tab=repositories)
-
 💻  Skills: <br>
 
 [1 - Clone Instagram](https://github.com/diegonery465/Desafio-DIO/tree/main/FlexCSSInstagram)
