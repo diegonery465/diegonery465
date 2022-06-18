@@ -28,7 +28,7 @@ Computer Networks and Information Security, Full Stack development and Machine L
 
 💻  Skills: <br>
 
-[Projetos Criados com HTML, CSS e JS](https://github.com/diegonery465/Desafio-DIO/tree/main/FlexCSSInstagram)<br>
+[Projetos Criados com HTML, CSS e JS](https://github.com/diegonery465/Projetos-HTML-CSS-JS)<br>
 
 
 
