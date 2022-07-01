@@ -26,7 +26,7 @@ Computer Networks and Information Security, Full Stack development and Machine L
 
 ## 👨🏻‍💻 Tech Stack
 
-💻  Skills veja abaixo: <br>
+💻  SKILLS, veja abaixo: <br>
 
 [Redes de Computadores](https://github.com/diegonery465/CCNAv7---CISCO)<br>
 
