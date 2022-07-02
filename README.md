@@ -26,9 +26,7 @@ Computer Networks and Information Security, Full Stack development and Machine L
 
 ## 👨🏻‍💻 Tech Stack
 
-💻  SKILLS, veja abaixo: <br>
-
-😏👉 [Só clicar sem medo!](https://github.com/diegonery465?tab=repositories)<br>
+💻  SKILLS, 😏👉 [Só clicar sem medo!](https://github.com/diegonery465?tab=repositories)<br>
 
 
 
