@@ -28,11 +28,7 @@ Computer Networks and Information Security, Full Stack development and Machine L
 
 💻  SKILLS, veja abaixo: <br>
 
-[Redes de Computadores](https://github.com/diegonery465/CCNAv7---CISCO)<br>
-
-[Projetos Criados com HTML, CSS e JS](https://github.com/diegonery465/Projetos-HTML-CSS-JS)<br>
-
-
+😏👉 [Só clicar sem medo!](https://github.com/diegonery465?tab=repositories)<br>
 
 
 
