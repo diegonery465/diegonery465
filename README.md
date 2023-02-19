@@ -27,7 +27,7 @@ Information Security.
 ## 💻 SKILLS <br>
 
   
- 👉 [REDES DE COMPUTADORES]([https://github.com/diegonery465?tab=repositories](https://github.com/diegonery465/Redes-de-Computadores)<br>
+ 👉 <a href="https://github.com/diegonery465/RedeDeComputadores/tree/main/INTRODUCAO" target="_blank">Introdução</a></BR>
 
 
 
