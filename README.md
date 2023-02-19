@@ -30,6 +30,11 @@ Information Security.
  👉 <a href="https://github.com/diegonery465/Projetos-HTML-CSS-JS" target="_blank">PROGRAMAÇÃO</a></BR>
  👉 <a href="https://github.com/diegonery465/Redes-de-Computadores" target="_blank">REDE DE COMPUTADORES</a></BR>
  👉 <a href="" target="_blank">HACKER ÉTICO</a></BR>
+ 👉 <a href="" target="_blank">AWS</a></BR>
+ 👉 <a href="" target="_blank">AZURE</a></BR>
+ 👉 <a href="" target="_blank">OFFICE365</a></BR>
+ 👉 <a href="" target="_blank">SERVIDOR WINDOWS</a></BR>
+ 👉 <a href="" target="_blank">SERVIDOR LINUX</a></BR>
  
 
 
