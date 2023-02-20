@@ -30,7 +30,7 @@ Information Security.
  👉 <a href="https://github.com/diegonery465/Projetos-HTML-CSS-JS" target="_blank">PROGRAMAÇÃO</a></BR>
  👉 <a href="https://github.com/diegonery465/Redes-de-Computadores" target="_blank">REDE DE COMPUTADORES</a></BR>
  👉 <a href="" target="_blank">HACKER ÉTICO</a></BR>
- 👉 <a href="https://github.com/diegonery465/AZ-800" target="_blank">AZ-800 - Servidor Windows hibrido</a></BR>
+ 👉 <a href="https://github.com/diegonery465/AZ-800" target="_blank">AZ-800 - WINDOWS SERVER HIBRIDO</a></BR>
  
  
 
