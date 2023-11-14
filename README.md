@@ -12,11 +12,9 @@
 ```
 A busca por conhecimento e melhoria fazem parte da nossa vida, conhecimento não se trata apenas daquilo que você aprende, e 
 sim a forma como você coloca em prática, tecnologia bem aplicada pode e irá transformar o mundo para melhor. Experiência na 
-área de Redes de Computadores e Segurança da Informação.
+área de Redes de Computadores, MultiCloud e Segurança da Informação.
 
-The search for knowledge and improvement are part of life, knowledge is not just about the search you learn, and yes the way 
-you put it into practice, technology well applied can transform the world better. experience in area of Computer Networks and 
-Information Security.
+The pursuit of knowledge and improvement is part of our lives. Knowledge is not just about what you learn, but how you put it into practice. Well-applied technology can and will transform the world for the better. Experience in the field of Computer Networks, MultiCloud, and Information Security.
 ```
 </h3>
 
