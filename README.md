@@ -14,7 +14,9 @@ A busca por conhecimento e melhoria fazem parte da nossa vida, conhecimento não
 sim a forma como você coloca em prática, tecnologia bem aplicada pode e irá transformar o mundo para melhor. Experiência na 
 área de Redes de Computadores, MultiCloud e Segurança da Informação.
 
-The pursuit of knowledge and improvement is part of our lives. Knowledge is not just about what you learn, but how you put it into practice. Well-applied technology can and will transform the world for the better. Experience in the field of Computer Networks, MultiCloud, and Information Security.
+The pursuit of knowledge and improvement is part of our lives. Knowledge is not just about what you learn, but how you put it
+into practice. Well-applied technology can and will transform the world for the better. Experience in the field of
+Computer Networks, MultiCloud, and Information Security.
 ```
 </h3>
 
