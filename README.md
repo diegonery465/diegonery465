@@ -53,6 +53,10 @@ Computer Networks, MultiCloud, and Information Security.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegonery465&show_icons=true&theme=tokyonight)
 </span> -->
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegonery465&show_icons=true&theme=tokyonight)
+[![diegonery465](https://github-readme-stats.vercel.app/api/top-langs/?username=diegonery465&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/diegonery465/)
+
+
 
 
 
