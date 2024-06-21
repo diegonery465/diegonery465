@@ -27,12 +27,6 @@ Computer Networks, MultiCloud, and Cybersecurity.
 <!-- GithubStats -->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=diegonery465&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
-<h4 align="center">
- 
-![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
-
-</h4>
-
 ## 🔥 Skills
 
  👉 <a href="/" target="_blank">Projetos AWS</a></BR>
@@ -40,6 +34,12 @@ Computer Networks, MultiCloud, and Cybersecurity.
  👉 <a href="/" target="_blank">Projetos Azure</a></BR>
  👉 <a href="/" target="_blank">Projetos Oracle Cloud</a></BR>
  👉 <a href="https://github.com/diegonery465/Projetos-HTML-CSS-JS" target="_blank">Programação</a></BR>
+
+<h4 align="center">
+ 
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+
+</h4>
 
 
 
