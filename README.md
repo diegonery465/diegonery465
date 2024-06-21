@@ -33,6 +33,8 @@ Computer Networks, MultiCloud, and Cybersecurity.
  👉 <a href="/" target="_blank">Projetos Google Cloud</a></BR>
  👉 <a href="/" target="_blank">Projetos Azure</a></BR>
  👉 <a href="/" target="_blank">Projetos Oracle Cloud</a></BR>
+ 👉 <a href="/" target="_blank">Projetos Vangrant</a></BR>
+ 👉 <a href="/" target="_blank">Projetos Ansible</a></BR>
  👉 <a href="https://github.com/diegonery465/Projetos-HTML-CSS-JS" target="_blank">Programação</a></BR>
 
 <h4 align="center">
