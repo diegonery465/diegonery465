@@ -11,12 +11,12 @@
 
 ```
 A busca por conhecimento e melhoria fazem parte da nossa vida, conhecimento não se trata apenas daquilo que você aprende, e 
-sim a forma como você coloca em prática, tecnologia bem aplicada pode e irá transformar o mundo para melhor. Experiência em Devops 
-infraestrutura, Redes de Computadores, MultiCloud e Cybersecurity.
+sim a forma como você coloca em prática, tecnologia bem aplicada pode e irá transformar o mundo para melhor.
+Experiência em Devops, infraestrutura, Redes de Computadores, MultiCloud e Cybersecurity.
 
-The pursuit of knowledge and improvement is part of our life. Knowledge is not just about what you learn, but also how you put
-it into practice. Well-applied technology can and will transform the world for the better. Experience in DevOps infrastructure,
-Computer Networks, MultiCloud, and Cybersecurity.
+The pursuit of knowledge and improvement is part of our life. Knowledge is not just about what you learn, but also
+how you put it into practice. Well-applied technology can and will transform the world for the better.
+Experience in DevOps infrastructure, Computer Networks, MultiCloud, and Cybersecurity.
 ```
 </h3>
 
