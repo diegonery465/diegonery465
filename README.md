@@ -29,7 +29,7 @@ Experience in DevOps infrastructure, Computer Networks, MultiCloud, and Cybersec
 
 ## 🔥 Skills
 
- 👉 (https://aws-icons.svg.zone/images/Architecture-Group-Icons/Architecture-Group-Icons_01312024/AWS-Cloud-logo_32.svg)</a></BR>
+ 👉 [AWS](https://aws-icons.svg.zone/images/Architecture-Group-Icons/Architecture-Group-Icons_01312024/AWS-Cloud-logo_32.svg)</a></BR>
  👉 <a href="/" target="_blank">Projetos Google Cloud</a></BR>
  👉 <a href="/" target="_blank">Projetos Azure</a></BR>
  👉 <a href="/" target="_blank">Projetos Oracle Cloud</a></BR>
