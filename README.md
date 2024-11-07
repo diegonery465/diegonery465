@@ -14,9 +14,9 @@ A busca por conhecimento e melhoria fazem parte da nossa vida, conhecimento não
 sim a forma como você coloca em prática, tecnologia bem aplicada pode e irá transformar o mundo para melhor.
 Experiência em Devops, infraestrutura, Redes de Computadores, MultiCloud e Cybersecurity.
 
-The pursuit of knowledge and improvement is part of our life. Knowledge is not just about what you learn, but also
-how you put it into practice. Well-applied technology can and will transform the world for the better.
-Experience in DevOps infrastructure, Computer Networks, MultiCloud, and Cybersecurity.
+The pursuit of knowledge and improvement is a fundamental part of our lives. Knowledge is not just about what you
+learn, but also how you put it into practice. Well-applied technology can and will transform the world for the better.
+I have experience in DevOps infrastructure, computer networks, multi-cloud environments, and cybersecurity.
 ```
 </h3>
 
