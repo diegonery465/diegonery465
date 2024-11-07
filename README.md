@@ -36,6 +36,7 @@ I have experience in DevOps infrastructure, computer networks, multi-cloud envir
  👉 ![VAGRANT](https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=Vagrant&logoColor=white)<a href="/" target="_blank"></a></BR>
  👉 ![ANSIBLE](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)<a href="/" target="_blank"></a></BR>
  👉 ![TERRAFORM](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)<a href="/" target="_blank"></a></BR>
+ 👉 ![ON-PREMISSES](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)<a href="/" target="_blank"></a></BR>
  👉 <a href="/" target="_blank">🤖 Artificial Intelligence</a></BR>
  👉 <a href="/" target="_blank">Defesa Cibernética</a></BR>
  👉 <a href="https://github.com/diegonery465/Projetos-HTML-CSS-JS" target="_blank">Programação</a></BR>
