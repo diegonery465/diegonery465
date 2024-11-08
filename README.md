@@ -10,6 +10,7 @@
 <br>
 
 ```
+
 A busca contínua por conhecimento e aprimoramento é essencial. Aplicar o que se aprende é tão importante quanto aprender.
 A tecnologia bem aplicada pode transformar o mundo. Tenho experiência em infraestrutura DevOps, redes de computadores,
 ambientes multi-cloud e cibersegurança, e estou comprometido em usar a tecnologia para criar soluções inovadoras
