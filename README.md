@@ -37,7 +37,7 @@ In the projects below, I utilized various technologies to solve real-world probl
 
 <br>
 
- 👉 [![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/diegonery465/AWS-Projects)</br>
+ 👉 [![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/diegonery465/AWS-Projects)<br>
  👉 ![GOOGLE](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)<a href="/" target="_blank"></a></BR>
  👉 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)<a href="/" target="_blank"></a></BR>
  👉 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)<a href="/" target="_blank"></a></BR>
