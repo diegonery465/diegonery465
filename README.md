@@ -31,9 +31,9 @@ real-world problems.
 
 ## 🔥 Skills
 
-Nos projetos abaixo, utilizei diversas tecnologias para resolver problemas reais e criar soluções inovadoras. Clique nos badges para acessar os detalhes de cada projeto e os artigos no Medium 🚀
+Nos projetos abaixo, utilizei diversas tecnologias para resolver problemas reais e criar soluções inovadoras. Clique nos badges para acessar os detalhes de cada projeto e os artigos no Medium.
 
-In the projects below, I utilized various technologies to solve real-world problems and create innovative solutions. Click on the badges to access the details of each project and the articles on Medium 🚀
+In the projects below, I utilized various technologies to solve real-world problems and create innovative solutions. Click on the badges to access the details of each project and the articles on Medium. 🚀
 
 <br>
 
