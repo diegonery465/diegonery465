@@ -43,7 +43,7 @@ Nos projetos abaixo, utilizei diversas tecnologias para resolver problemas reais
  👉 ![ON-PREMISSES](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)<a href="/" target="_blank"></a></BR>
  👉 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)<a href="/" target="_blank"></a></BR>
  👉 ![!IA](https://img.shields.io/badge/Artificial_Intelligence-Expert-blue?style=for-the-badge&logo=artificial-intelligence&logoColor=white)<a href="/" target="_blank"></a></BR>
- 👉 <a href="/" target="_blank">Defesa Cibernética</a></BR>
+ 👉 ![Defesa Cibernetica]https://img.shields.io/badge/Cybersecurity-Expert-green?style=for-the-badge&logo=cybersecurity&logoColor=white)<a href="/" target="_blank"></a></BR>
  👉 <a href="https://github.com/diegonery465/Projetos-HTML-CSS-JS" target="_blank">Programação</a></BR>
 
 <h4 align="center">
