@@ -30,6 +30,7 @@ I have experience in DevOps infrastructure, computer networks, multi-cloud envir
 ## 🔥 Skills
 
 Nos projetos abaixo, utilizei diversas tecnologias para resolver problemas reais e criar soluções inovadoras. Clique nos badges para acessar os detalhes de cada projeto e os artigos no Medium:
+
 <br>
 
  👉 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)<a href="/" target="_blank"></a></BR>
