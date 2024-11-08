@@ -10,7 +10,6 @@
 <br>
 
 ```
-
 A busca pelo conhecimento e pelo aprimoramento contínuo é uma parte fundamental de nossas vidas. Conhecimento não é apenas
 sobre o que você aprende, mas também sobre como você aplica isso.
 
@@ -18,15 +17,12 @@ A tecnologia bem aplicada tem o poder de transformar o mundo para melhor. Com am
 redes de computadores, ambientes multi-cloud e cibersegurança, estou comprometido em utilizar a tecnologia para criar
 soluções inovadoras e resolver problemas reais.
 
+The pursuit of knowledge and continuous improvement is a fundamental part of our lives. Knowledge is not just about what
+you learn, but also how you apply it. Well-applied technology has the power to transform the world for the better.
 
+With extensive experience in DevOps infrastructure, computer networks, multi-cloud environments, and cybersecurity, I am
+committed to leveraging technology to create innovative solutions and solve real-world problems.
 
-A busca por conhecimento e melhoria fazem parte da nossa vida, conhecimento não se trata apenas daquilo que você aprende, e 
-sim a forma como você coloca em prática, tecnologia bem aplicada pode e irá transformar o mundo para melhor.
-Experiência em Devops, infraestrutura, Redes de Computadores, MultiCloud e Cybersecurity.
-
-The pursuit of knowledge and improvement is a fundamental part of our lives. Knowledge is not just about what you
-learn, but also how you put it into practice. Well-applied technology can and will transform the world for the better.
-I have experience in DevOps infrastructure, computer networks, multi-cloud environments, and cybersecurity.
 ```
 </h3>
 
