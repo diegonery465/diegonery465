@@ -10,9 +10,11 @@
 <br>
 
 ```
+
 A busca pelo conhecimento e pelo aprimoramento contínuo é uma parte fundamental de nossas vidas. Conhecimento não é apenas sobre o que você aprende,
-mas também sobre como você aplica isso. A tecnologia bem aplicada tem o poder de transformar o mundo para melhor. Com ampla experiência em infraestrutura DevOps,
-redes de computadores, ambientes multi-cloud e cibersegurança, estou comprometido em utilizar a tecnologia para criar soluções inovadoras e resolver problemas reais.
+mas também sobre como você aplica isso. A tecnologia bem aplicada tem o poder de transformar o mundo para melhor. Com ampla experiência em
+infraestrutura DevOps, redes de computadores, ambientes multi-cloud e cibersegurança, estou comprometido em utilizar a tecnologia para criar
+soluções inovadoras e resolver problemas reais.
 
 
 
