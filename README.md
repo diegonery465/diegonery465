@@ -40,7 +40,7 @@ Nos projetos abaixo, utilizei diversas tecnologias para resolver problemas reais
  👉 ![TERRAFORM](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)<a href="/" target="_blank"></a></BR>
  👉 ![ON-PREMISSES](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)<a href="/" target="_blank"></a></BR>
  👉 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)<a href="/" target="_blank"></a></BR>
- 👉 ![!IA](https://img.shields.io/badge/Artificial_Intelligence-Expert-blue?style=for-the-badge&logo=artificial-intelligence&logoColor=blue)<a href="/" target="_blank"></a></BR>
+ 👉 ![!IA](https://img.shields.io/badge/Artificial_Intelligence-Expert-blue?style=for-the-badge&logo=artificial-intelligence&logoColor=white)<a href="/" target="_blank"></a></BR>
  👉 <a href="/" target="_blank">Defesa Cibernética</a></BR>
  👉 <a href="https://github.com/diegonery465/Projetos-HTML-CSS-JS" target="_blank">Programação</a></BR>
 
