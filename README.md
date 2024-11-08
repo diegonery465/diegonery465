@@ -10,22 +10,16 @@
 <br>
 
 ```
-A busca contínua por conhecimento e aprimoramento é essencial. Aplicar o que se aprende é tão importante quanto aprender. A
-tecnologia bem aplicada pode transformar o mundo. Tenho experiência em infraestrutura DevOps, redes de computadores, ambientes
-multi-cloud e cibersegurança, e estou comprometido em usar a tecnologia para criar soluções inovadoras e resolver problemas reais.
+A busca contínua por conhecimento e aprimoramento é essencial. Aplicar o que se aprende é tão importante quanto aprender.
+A tecnologia bem aplicada pode transformar o mundo. Tenho experiência em infraestrutura DevOps, redes de computadores,
+ambientes multi-cloud e cibersegurança, e estou comprometido em usar a tecnologia para criar soluções inovadoras
+e resolver problemas reais.
 
-A busca pelo conhecimento e pelo aprimoramento contínuo é uma parte fundamental de nossas vidas. Conhecimento não é apenas
-sobre o que você aprende, mas também sobre como você aplica isso.
 
-A tecnologia bem aplicada tem o poder de transformar o mundo para melhor. Com ampla experiência em infraestrutura DevOps,
-redes de computadores, ambientes multi-cloud e cibersegurança, estou comprometido em utilizar a tecnologia para criar
-soluções inovadoras e resolver problemas reais.
-
-The pursuit of knowledge and continuous improvement is a fundamental part of our lives. Knowledge is not just about what
-you learn, but also how you apply it. Well-applied technology has the power to transform the world for the better.
-
-With extensive experience in DevOps infrastructure, computer networks, multi-cloud environments, and cybersecurity, I am
-committed to leveraging technology to create innovative solutions and solve real-world problems.
+The continuous pursuit of knowledge and improvement is essential. Applying what you learn is as important as learning itself.
+Well-applied technology can transform the world. I have experience in DevOps infrastructure, computer networks, multi-cloud
+environments, and cyber security, and I am committed to using technology to create innovative solutions and solve
+real-world problems.
 
 ```
 </h3>
