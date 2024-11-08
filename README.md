@@ -29,9 +29,6 @@ real-world problems.
 
 <br>
 
-<!-- GithubStats -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=diegonery465&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
-
 ## 🔥 Skills
 
 Nos projetos abaixo, utilizei diversas tecnologias para resolver problemas reais e criar soluções inovadoras. Clique nos badges para acessar os detalhes de cada projeto e os artigos no Medium:
@@ -53,12 +50,14 @@ Nos projetos abaixo, utilizei diversas tecnologias para resolver problemas reais
       <img src="https://img.shields.io/badge/Programming-Expert-purple?style=for-the-badge&logo=code&logoColor=white" alt="Programação">
      </a>
 
-
 <h4 align="center">
  
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
 </h4>
+
+<!-- GithubStats -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=diegonery465&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
 
 
