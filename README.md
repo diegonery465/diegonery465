@@ -25,7 +25,7 @@ real-world problems.
 ```
 </h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/diegonery465)](https://www.linkedin.com/in/diego-nery-2a06151a7/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/diegonery465)](https://www.linkedin.com/in/diego-sousa-2a06151a7/)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white=white&link=https://github.com/diegonery465)](https://medium.com/@diegonery465)
 
 <br>
