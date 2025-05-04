@@ -11,10 +11,10 @@
 
 ```
 
-A busca contínua por conhecimento e aprimoramento é essencial. Aplicar o que se aprende é tão importante quanto aprender.
-A tecnologia bem aplicada pode transformar o mundo. Tenho experiência em infraestrutura DevOps, redes de computadores,
-ambientes multi-cloud e cibersegurança, e estou comprometido em usar a tecnologia para criar soluções inovadoras
-e resolver problemas reais.
+A busca contínua por conhecimento e aprimoramento é essencial — aprender e aplicar caminham juntos. Tenho experiência em
+infraestrutura DevOps, redes de computadores, ambientes multi-cloud, cibersegurança e inteligência artificial.
+Acredito que a tecnologia, quando bem aplicada, pode transformar o mundo. Estou comprometido em usar a tecnologia de
+forma consciente para criar soluções inovadoras e resolver problemas reais.
 
 
 The continuous pursuit of knowledge and improvement is essential. Applying what you learn is as important as learning itself.
