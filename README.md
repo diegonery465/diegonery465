@@ -16,11 +16,10 @@ infraestrutura DevOps, redes de computadores, ambientes multi-cloud, cibersegura
 Acredito que a tecnologia, quando bem aplicada, pode transformar o mundo. Estou comprometido em usar a tecnologia de
 forma consciente para criar soluções inovadoras e resolver problemas reais.
 
-
-The continuous pursuit of knowledge and improvement is essential. Applying what you learn is as important as learning itself.
-Well-applied technology can transform the world. I have experience in DevOps infrastructure, computer networks, multi-cloud
-environments, and cyber security, and I am committed to using technology to create innovative solutions and solve
-real-world problems.
+The continuous pursuit of knowledge and improvement is essential — learning and applying must go hand in hand. I have experience
+in DevOps infrastructure, computer networks, multi-cloud environments, cybersecurity, and artificial intelligence.
+I believe technology, when used wisely, can transform the world. I'm committed to using technology consciously to create innovative
+solutions and solve real-world problems.
 
 ```
 </h3>
