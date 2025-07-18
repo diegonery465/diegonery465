@@ -10,11 +10,10 @@
 <br>
 
 ```
-
-A busca contínua por conhecimento e aprimoramento é essencial — aprender e aplicar caminham juntos. Tenho experiência em
-infraestrutura DevOps, redes de computadores, ambientes multi-cloud, cibersegurança e inteligência artificial.
-Acredito que a tecnologia, quando bem aplicada, pode transformar o mundo. Estou comprometido em usar a tecnologia de
-forma consciente para criar soluções inovadoras e resolver problemas reais.
+📚 A busca contínua por conhecimento e evolução é essencial — aprender e aplicar devem caminhar lado a lado.
+🛠️ Tenho experiência em infraestrutura DevOps, redes de computadores, ambientes multi-cloud, cibersegurança e IA.
+🌍 Acredito que a tecnologia, quando usada com consciência, tem o poder de transformar realidades.
+💡 Meu compromisso é aplicar a tecnologia de forma ética e estratégica, criando soluções inovadoras para problemas reais.
 
 The continuous pursuit of knowledge and improvement is essential — learning and applying must go hand in hand.
 I have experience in DevOps infrastructure, computer networks, multi-cloud environments, cybersecurity, and
