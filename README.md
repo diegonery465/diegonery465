@@ -26,11 +26,12 @@ Atuo com Landing Zone, governança multi-conta, segurança e IaC. Foco em ambien
 
 ## 🔥 Skills
 
-Nos projetos abaixo, utilizei diversas tecnologias para resolver problemas reais e criar soluções inovadoras. Clique nos badges para acessar os detalhes de cada projeto e os artigos no Medium.
-
-In the projects below, I utilized various technologies to solve real-world problems and create innovative solutions. Click on the badges to access the details of each project and the articles on Medium. 🚀
+Construindo publicamente um lab de **AWS Landing Zone** (Control Tower + AFT + governança multi-conta). 12 semanas. Atualizado toda semana.
+👉 [aws-landing-zone-lab](https://github.com/diegonery465/aws-landing-zone-lab)
 
 <br>
+
+
 
  👉 [![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/diegonery465/AWS-Projects)<br>
  👉 ![GOOGLE](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)<a href="/" target="_blank"></a></BR>
