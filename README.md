@@ -24,29 +24,16 @@ Atuo com Landing Zone, governança multi-conta, segurança e IaC. Foco em ambien
 
 <br>
 
-## 🔥 Skills
+#### 🔭 No momento
 
 Construindo publicamente um lab de **AWS Landing Zone** (Control Tower + AFT + governança multi-conta). 12 semanas. Atualizado toda semana.
-
+👉 [aws-landing-zone-lab](https://github.com/diegonery465/aws-landing-zone-lab)
 
 <br>
 
 
 
- 👉 [![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/diegonery465/AWS-Projects)<br>
- 👉 ![GOOGLE](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)<a href="/" target="_blank"></a></BR>
- 👉 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)<a href="/" target="_blank"></a></BR>
- 👉 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)<a href="/" target="_blank"></a></BR>
- 👉 ![VAGRANT](https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=Vagrant&logoColor=white)<a href="/" target="_blank"></a></BR>
- 👉 ![ANSIBLE](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)<a href="/" target="_blank"></a></BR>
- 👉 ![TERRAFORM](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)<a href="/" target="_blank"></a></BR>
- 👉 ![ON-PREMISSES](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)<a href="/" target="_blank"></a></BR>
- 👉 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)<a href="/" target="_blank"></a></BR>
- 👉 ![!IA](https://img.shields.io/badge/Artificial_Intelligence-Expert-blue?style=for-the-badge&logo=artificial-intelligence&logoColor=white)<a href="/" target="_blank"></a></BR>
- 👉 ![Defesa Cibernetica](https://img.shields.io/badge/Cybersecurity-Expert-green?style=for-the-badge&logo=cybersecurity&logoColor=white)<a href="/" target="_blank"></a></BR>
- 👉 <a href="https://github.com/diegonery465/Projetos-HTML-CSS-JS" target="_blank">
-      <img src="https://img.shields.io/badge/Programming-Expert-purple?style=for-the-badge&logo=code&logoColor=white" alt="Programação">
-     </a>
+
 
 <h4 align="center">
  
