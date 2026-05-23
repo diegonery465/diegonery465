@@ -10,17 +10,11 @@
 <br>
 
 ```
-A busca contínua por conhecimento e evolução é essencial, aprender e aplicar devem caminhar
-lado a lado. Tenho experiência em infraestrutura DevOps, redes de computadores, ambientes multi-cloud,
-cibersegurança e IA. Acredito que a tecnologia, quando usada com consciência, tem o poder de
-transformar realidades. Meu compromisso é aplicar a tecnologia de forma ética e estratégica, criando
-soluções inovadoras para problemas reais.
+**Cloud & Infrastructure Architect** focado em modernização AWS, Azure e ambientes híbridos para empresas brasileiras.
 
-The continuous pursuit of knowledge and growth is essential — learning and applying must go hand in
-hand. I have experience in DevOps infrastructure, computer networks, multi-cloud environments,
-cybersecurity, and artificial intelligence. I believe that technology, when used consciously, has the
-power to transform lives. I'm committed to applying technology ethically and strategically to create
-innovative solutions for real-world challenges.
+Atuo com Landing Zone, governança multi-conta, segurança e IaC. Foco em ambientes regulados e empresas em jornada de modernização (on-prem ↔ cloud).
+
+🇧🇷 Português · 🇺🇸 English (technical)
 
 ```
 </h3>
