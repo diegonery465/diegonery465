@@ -33,10 +33,16 @@ Construindo publicamente um lab de **AWS Landing Zone** (Control Tower + AFT + g
 <br>
 👉 [aws-landing-zone-lab](https://github.com/diegonery465/aws-landing-zone-lab)
 
-<br>
 ---
 
+#### 🛠️ Stack principal
 
+- **Cloud:** AWS · Azure · GCP
+- **Infra híbrida:** Active Directory · VMware · Hyper-V
+- **IaC & CI/CD:** Terraform · Ansible · GitHub Actions · GitLab CI
+- **Segurança & Observabilidade:** Wazuh · CloudTrail · GuardDuty · Security Hub · Palo Alto
+
+---
 
 
 
