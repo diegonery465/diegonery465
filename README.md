@@ -34,6 +34,9 @@ Construindo publicamente um lab de **AWS Landing Zone** (Control Tower + AFT + g
 👉 [aws-landing-zone-lab](https://github.com/diegonery465/aws-landing-zone-lab)
 
 <br>
+---
+
+
 
 
 
