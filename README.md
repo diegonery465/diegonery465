@@ -27,7 +27,7 @@ Atuo com Landing Zone, governança multi-conta, segurança e IaC. Foco em ambien
 ## 🔥 Skills
 
 Construindo publicamente um lab de **AWS Landing Zone** (Control Tower + AFT + governança multi-conta). 12 semanas. Atualizado toda semana.
-👉 [aws-landing-zone-lab](https://github.com/diegonery465/aws-landing-zone-lab)
+
 
 <br>
 
