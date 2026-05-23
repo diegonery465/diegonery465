@@ -24,6 +24,8 @@ Atuo com Landing Zone, governança multi-conta, segurança e IaC. Foco em ambien
 
 <br>
 
+---
+
 #### 🔭 No momento
 
 Construindo publicamente um lab de **AWS Landing Zone** (Control Tower + AFT + governança multi-conta). 12 semanas. Atualizado toda semana.
