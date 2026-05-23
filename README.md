@@ -47,8 +47,8 @@ Construindo publicamente um lab de **AWS Landing Zone** (Control Tower + AFT + g
 #### ✍️ Onde escrevo
 
 - 📝 Artigos técnicos no [Medium](https://medium.com/@diegonery465)
-- 💼 [LinkedIn](https://www.linkedin.com/in/diego-nery-2a06151a7/) — posts semanais sobre arquitetura cloud e híbrida
-- 🌐 [raidsolutions.com.br](https://www.raidsolutions.com.br) — minha empresa de consultoria
+- 💼 [LinkedIn](https://www.linkedin.com/in/diego-nery-2a06151a7/) — Posts semanais sobre arquitetura cloud e híbrida
+- 🌐 [raidsolutions.com.br](https://www.raidsolutions.com.br) — Minha empresa de consultoria
 
 ---
 
