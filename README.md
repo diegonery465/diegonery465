@@ -1,8 +1,7 @@
 
 <h3 align="center">  <br>
 
-👋 Olá, eu sou o Diego Nery, seja bem vindo! 🇧🇷 <br>
-    Hi, I'm Diego, welcome!
+👋 Olá, eu sou o Diego Nery, seja bem vindo! <br>
 <br>
 
 </h3>
