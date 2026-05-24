@@ -9,8 +9,8 @@
 <br>
 
 ```
-Cloud Platform Architect focado em modernização AWS, Azure e ambientes híbridos para empresas brasileiras. Atuo
-com Landing Zone, governança multi-conta, segurança e IaC. Foco em ambientes regulados e empresas em jornada de
+Cloud Platform Architect focado em modernização AWS, Azure e ambientes híbridos para empresas. Atuo com
+Landing Zone, governança multi-conta, segurança e IaC. Foco em ambientes regulados e empresas em jornada de
 modernização (on-prem ↔ cloud).
 
 🇧🇷 Português · 🇺🇸 English (technical)
