@@ -40,6 +40,7 @@ Construindo publicamente um lab de **AWS Landing Zone** (Control Tower + AFT + g
 - **Infra híbrida:** Active Directory · VMware · Hyper-V
 - **IaC & CI/CD:** Terraform · Ansible · GitHub Actions · GitLab CI
 - **Segurança & Observabilidade:** Wazuh · CloudTrail · GuardDuty · Security Hub · Palo Alto
+- **IA aplicada a IaC:** integração de LLMs em pipelines (padrão Sidecar)
 
 ---
 
