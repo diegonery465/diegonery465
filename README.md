@@ -72,7 +72,7 @@ Atendo via Raid Solutions (PJ) em três frentes:
 </h4>
 
 <!-- GithubStats -->
-[!GitHub Streak](https://streak-stats.demolab.com/?user=diegonery465&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+[!](https://streak-stats.demolab.com/?user=diegonery465&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
 
 
