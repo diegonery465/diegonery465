@@ -29,7 +29,8 @@ modernização (on-prem ↔ cloud).
 
 👉 [Engenharia de confiabilidade de sistemas agênticos aplicada a cloud e segurança](https://github.com/diegonery465/raid-cloud-guardian): o que acontece quando um agente de IA lê a saída de um scanner — e como auditar o que ele conclui.
 <br>
-🛑 [AWS-Landing-Zone-lab](https://github.com/diegonery465/aws-landing-zone-lab) : lab de AWS Landing Zone (Control Tower + AFT + governança multi-conta), pausado desde jul/2026.
+<br>
+✋ [AWS-Landing-Zone-lab](https://github.com/diegonery465/aws-landing-zone-lab) : lab de AWS Landing Zone (Control Tower + AFT + governança multi-conta), pausado desde jul/2026.
 
 ---
 
