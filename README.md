@@ -27,10 +27,15 @@ modernização (on-prem ↔ cloud).
 
 #### 🔭 No momento
 
-Construindo publicamente um lab de **AWS Landing Zone** (Control Tower + AFT + governança multi-conta). 12 semanas. Atualizado toda semana.
+## 🔭 No momento
+
+Engenharia de confiabilidade de sistemas agênticos aplicada a cloud e segurança:
+o que acontece quando um agente de IA lê a saída de um scanner — e como auditar o que ele conclui.
+
 <br>
 <br>
-👉 [aws-landing-zone-lab](https://github.com/diegonery465/aws-landing-zone-lab)
+👉 [aws-landing-zone-lab](https://github.com/diegonery465/aws-landing-zone-lab) lab de AWS Landing
+Zone (Control Tower + AFT + governança multi-conta), pausado desde jul/2026.
 
 ---
 
@@ -40,7 +45,7 @@ Construindo publicamente um lab de **AWS Landing Zone** (Control Tower + AFT + g
 - **Infra híbrida:** Active Directory · VMware · Hyper-V
 - **IaC & CI/CD:** Terraform · Ansible · GitHub Actions · GitLab CI
 - **Segurança & Observabilidade:** Wazuh · CloudTrail · GuardDuty · Security Hub · Palo Alto
-- **IA aplicada a IaC:** integração de LLMs em pipelines (padrão Sidecar)
+- **IA aplicada a IaC:** integração de LLMs em pipelines (padrão Sidecar) e etc.
 
 ---
 
