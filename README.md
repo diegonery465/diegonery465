@@ -32,10 +32,9 @@ o que acontece quando um agente de IA lê a saída de um scanner — e como audi
 
 <br>
 <br>
+
 👉 [AWS-Landing-Zone-lab](https://github.com/diegonery465/aws-landing-zone-lab) lab de AWS Landing
 Zone (Control Tower + AFT + governança multi-conta), pausado desde jul/2026.
-
-[Medium](https://github.com/diegonery465/aws-landing-zone-lab)
 
 ---
 
