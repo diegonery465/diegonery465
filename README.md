@@ -27,7 +27,7 @@ modernização (on-prem ↔ cloud).
 
 ## 🔭 No momento
 <br>
-<br>
+
 👉 [Engenharia de confiabilidade de sistemas agênticos](https://github.com/diegonery465/raid-cloud-guardian) aplicada a cloud e segurança: o que acontece quando um agente de IA lê a saída de um scanner e como auditar o que ele conclui.
 <br>
 <br>
